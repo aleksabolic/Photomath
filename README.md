@@ -42,10 +42,10 @@ This project uses pretrained [TrOCR model](https://huggingface.co/microsoft/troc
 
 ## Results
 
-![Image Alt Text](examples/ex1.png?raw=true)
+![Image Alt Text](examples/ex1.png)
 Prediction: $d\times A\sqrt{{\alpha}}-3\neq{7}^{3-83}$
 
-![Image Alt Text](examples/ex2.png?raw=true)
+![Image Alt Text](examples/ex2.png)
 Prediction: $\int({n}^{2}-1{n}_{2}) {k}^{k+\frac{k}{n}}$
 
 ## Future work
